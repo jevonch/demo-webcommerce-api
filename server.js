@@ -9,6 +9,7 @@ const resolvers = require('./src/resolver');
 
 async function startApolloServer(typeDefs, resolvers) {
     const app = express();
+    const port = process.env.PORT || 4000;
     app.use('/uploads', express.static('src/images'));
     const httpServer = http.createServer(app);
     const server = new ApolloServer({
@@ -18,8 +19,8 @@ async function startApolloServer(typeDefs, resolvers) {
     });
     await server.start();
     server.applyMiddleware({ app, bodyParserConfig: true });
-    await new Promise(resolve => httpServer.listen({ port: 4000 }, resolve));
-    console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`);
+    await new Promise(resolve => httpServer.listen({ port: port }, resolve));
+    console.log(`🚀 Server ready at http://localhost:${port}${server.graphqlPath}`);
 }
 
 startApolloServer(typeDefs, resolvers);
