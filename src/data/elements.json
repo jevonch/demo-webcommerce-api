@@ -2,10 +2,10 @@
     "products": [
         {
             "id": 87,
-            "name": "Beige metal hoop tote bag",
-            "slug": "beige-metal-hoop-tote-bag",
-            "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 76,
+            "name": "PRADA Arqué Shoulder Leather Bag Cognac",
+            "slug": "prada-arqué-shoulder-leather-bag-cognac",
+            "short_desc": "This sleek leather bag expresses versatile, modernist allure. The accessory with a curvy silhouette is completed by the leather extension for versatile wear. With a nappa leather lining and metal hardware, the bag is accented with the iconic enameled metal triangle logo on the front.",
+            "price": 27000000,
             "sale_price": null,
             "review": 2,
             "ratings": 4,
@@ -32,44 +32,44 @@
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_1_1_45e247fd69.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_1_2_3015187804.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_1_3_e6f8d6b032.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_1_4_f5fa0713da.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_1_1_300x300_a41bf80b40.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_1_2_300x300_4d585cfd35.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_1_3_300x300_0a0f9518be.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_1_4_300x300_48da39ab39.jpg"
+                    "url": "/uploads/new-images/663b23a4-8cac-4cd5-98ce-eb20718f8a1d.jpg"
                 }
             ],
             "variants": [
@@ -174,10 +174,10 @@
         },
         {
             "id": 88,
-            "name": "Beige ring handle circle cross body bag",
-            "slug": "beige-ring-handle-circle-cross-body-bag",
+            "name": "Nike Elemental Backpack (21L) - Black",
+            "slug": "nike-elemental-backpack-black",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, fermentum et, dapibus sed, urna. Morbi i",
-            "price": 55,
+            "price": 429000,
             "sale_price": null,
             "review": 2,
             "ratings": 3,
@@ -208,54 +208,54 @@
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/1_big_e8af4c1106.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/2_big_2392558dfc.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/3_big_63d1f6664f.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/4_big_07ea37ae3a.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "820",
                     "height": "820",
-                    "url": "/uploads/1_3df6114aa3.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "820",
                     "height": "820",
-                    "url": "/uploads/2_a2ee45417a.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "820",
                     "height": "820",
-                    "url": "/uploads/3_070f8cc732.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 },
                 {
                     "width": "820",
                     "height": "820",
-                    "url": "/uploads/4_0f662308da.jpg"
+                    "url": "/uploads/new-images/imagesnike01.jpg"
                 }
             ],
             "variants": []
         },
         {
             "id": 89,
-            "name": "Beige V neck button cardigan",
-            "slug": "beige-v-neck-button-cardigan",
+            "name": "River Island Brown Beige Tote Bag",
+            "slug": "river-island-brown-beige-tote-bag",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 72,
+            "price": 900000,
             "sale_price": null,
             "review": 2,
             "ratings": 0,
@@ -282,44 +282,44 @@
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_2_1_f64862c43b.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_2_2_837fdaeb82.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_2_3_ad4fa04b81.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_2_4_761d77686f.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_2_1_300x300_98e1548d0e.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_2_2_300x300_9f775cd8db.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_2_3_300x300_e7bf3012a7.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_2_4_300x300_55784f7cb0.jpg"
+                    "url": "/uploads/new-images/imagesriverisland.jpg"
                 }
             ],
             "variants": []
@@ -329,7 +329,7 @@
             "name": "Black denim dungaree dress",
             "slug": "black-denim-dungaree-dress",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 60,
+            "price": 750000,
             "sale_price": null,
             "review": 2,
             "ratings": 0,
@@ -356,44 +356,44 @@
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/product_5_2_092ad839ae.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/product_5_4_1ac3e542b3.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/product_5_1_b6fccd3735.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/product_5_3_b58c599287.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "327",
-                    "url": "/uploads/product_5_2_300x190_7ec8c0ecc8.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "300",
                     "height": "340",
-                    "url": "/uploads/product_5_4_300x190_ae766268aa.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "300",
                     "height": "190",
-                    "url": "/uploads/product_5_1_300x190_787440f117.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 },
                 {
                     "width": "300",
                     "height": "227",
-                    "url": "/uploads/product_5_3_300x190_69a7d7e0db.jpg"
+                    "url": "/uploads/new-images/fandfdungareedressage.jpg"
                 }
             ],
             "variants": []
@@ -438,44 +438,44 @@
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/5_big_dff8095b6d.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/6_big_3a529e5c3c.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/7_big_037aa72fde.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/8_big_3e07e623e2.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/5_12a3f8d877.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/6_6d9a6a354b.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/7_0ec91a9581.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/8_6919a9ac7f.jpg"
+                    "url": "/uploads/new-images/nikesandalwanitaselop.jpg"
                 }
             ],
             "variants": []
@@ -485,8 +485,8 @@
             "name": "Brown faux fur longline coat",
             "slug": "brown-faux-fur-longline-coat",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 310,
-            "sale_price": 190,
+            "price": 3100000,
+            "sale_price": 1900000,
             "review": 2,
             "ratings": 0,
             "until": "2022-01-01",
@@ -512,44 +512,44 @@
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_3_1_a735544125.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_3_2_c4da51a5e5.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "800",
                     "height": "800",
-                    "url": "/uploads/product_3_3_316435d125.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/product_3_4_66f6b1e5b8.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_3_1_300x300_c1c27f2eac.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_3_2_300x300_ce25066f39.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_3_3_300x300_7a52a367d8.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 },
                 {
                     "width": "300",
                     "height": "300",
-                    "url": "/uploads/product_3_4_300x300_da5b300369.jpg"
+                    "url": "/uploads/new-images/geoxproduct1.jpg"
                 }
             ],
             "variants": []
@@ -559,7 +559,7 @@
             "name": "Dark yellow lace cut out swing dress",
             "slug": "dark-yellow-lace-cut-out-swing-dress",
             "short_desc": "Pellentesque aliquet nibh nec urna. In nisi neque, aliquet vel, dapibus id, mattis vel, nisi.",
-            "price": 84,
+            "price": 840000,
             "sale_price": null,
             "review": 2,
             "ratings": 0,
@@ -594,44 +594,44 @@
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/1_big_f3d14c6d9e.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/2_big_b92bad0d29.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/3_big_a6689a6840.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/4_big_33487c57fa.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/1_aa85a47653.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/2_5f037f660b.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/3_e34b30cfd8.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 },
                 {
                     "width": "458",
                     "height": "458",
-                    "url": "/uploads/4_3331bcfb46.jpg"
+                    "url": "/uploads/new-images/maje-lace-mini-dress_19380374_45459225_1000.jpg"
                 }
             ],
             "variants": [
@@ -716,7 +716,7 @@
             "name": "Yellow tie strap block heel sandals",
             "slug": "yellow-tie-strap-block-heel-sandals",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 68,
+            "price": 680000,
             "sale_price": null,
             "review": 2,
             "ratings": 1,
@@ -747,44 +747,44 @@
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/1_big_3f53ed3f1c.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/2_big_e62a3af309.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/3_big_b85715002c.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "1200",
                     "height": "1200",
-                    "url": "/uploads/4_big_806ac0c831.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "575",
                     "height": "575",
-                    "url": "/uploads/1_f8b683bd38.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "575",
                     "height": "575",
-                    "url": "/uploads/2_c5b26b1154.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "575",
                     "height": "575",
-                    "url": "/uploads/3_7f384e534d.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 },
                 {
                     "width": "575",
                     "height": "575",
-                    "url": "/uploads/4_51dfbbc880.jpg"
+                    "url": "/uploads/new-images/extended-2.jpg"
                 }
             ],
             "variants": [
@@ -859,7 +859,7 @@
             "name": "Loafers",
             "slug": "loafers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 67,
+            "price": 670000,
             "sale_price": null,
             "review": 2,
             "ratings": 3,
@@ -894,34 +894,34 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/1_big_7540f08de7.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/2_big_f23fcb5d30.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/3_big_898d71e39e.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/1_90856a8f53.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 },
                 {
                     "width": "600",
                     "height": "816",
-                    "url": "/uploads/2_4d45fbbc96.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/3_780cc695ad.jpg"
+                    "url": "/uploads/new-images/uggshoesimages.jpg"
                 }
             ],
             "variants": []
@@ -931,8 +931,8 @@
             "name": "Printed Sweatshirt",
             "slug": "printed-sweatshirt",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 12.99,
-            "sale_price": 7.99,
+            "price": 130000,
+            "sale_price": 80000,
             "review": 2,
             "ratings": 1,
             "until": null,
@@ -966,44 +966,44 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_1_1_e44ea6b001.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_1_2_08bb219386.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_1_3_288d572a84.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_1_4_01a63f4949.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_1_1_300x408_1f662c0197.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_1_2_300x408_9e213baa0a.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_1_3_300x408_21f126ec4b.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_1_4_300x408_a9d690bee3.jpg"
+                    "url": "/uploads/new-images/imagesprinted01.jpg"
                 }
             ],
             "variants": []
@@ -1013,8 +1013,8 @@
             "name": "Black Jeans",
             "slug": "black-jeans",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 14.99,
-            "sale_price": 9.99,
+            "price": 150000,
+            "sale_price": 100000,
             "review": 2,
             "ratings": 2,
             "until": "2022-01-01",
@@ -1052,34 +1052,34 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_2_1_7ee61ecd14.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_2_2_3fb624d15a.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_2_3_57015e89c7.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_1_300x408_8a022bf381.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_2_300x408_edddfecb50.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_3_300x408_a8f9e18e67.jpg"
+                    "url": "/uploads/new-images/blackjeansimages.jpg"
                 }
             ],
             "variants": [
@@ -1172,7 +1172,7 @@
             "name": "Trainers",
             "slug": "trainers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 29.99,
+            "price": 350000,
             "sale_price": null,
             "review": 2,
             "ratings": 4,
@@ -1230,7 +1230,7 @@
             "name": "Biker Jacket",
             "slug": "biker-jacket",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 23.99,
+            "price": 240000,
             "sale_price": null,
             "review": 2,
             "ratings": 4,
@@ -1265,44 +1265,44 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_4_1_ef8847a107.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_4_2_364fb96a04.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_4_3_0e392227fd.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_4_4_e42faa4191.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_4_1_300x408_5d955e425b.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_4_2_300x408_5c1ff41318.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_4_3_300x408_b73efbb65e.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_4_4_300x408_a4039568f3.jpg"
+                    "url": "/uploads/new-images/id-11134207-7r98x-lmzsem6vf659b3.jpg"
                 }
             ],
             "variants": []
@@ -1312,8 +1312,8 @@
             "name": "Marmot Empire Daypack",
             "slug": "marmot-empire-daypack",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 17.99,
-            "sale_price": 12.99,
+            "price": 250000,
+            "sale_price": 130000,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -1355,34 +1355,34 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_9_1_9e47740d83.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_9_2_e3529af393.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_9_3_a118511d7d.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_9_1_300x408_85c7c8c4a5.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_9_2_300x408_c99edaabfc.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_9_3_300x408_3ca1052b97.jpg"
+                    "url": "/uploads/new-images/marmotdaypackimages.jpg"
                 }
             ],
             "variants": []
@@ -1681,7 +1681,7 @@
             "name": "Sandals",
             "slug": "sandals",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 17.99,
+            "price": 180000,
             "sale_price": null,
             "review": 2,
             "ratings": 0,
@@ -1712,34 +1712,34 @@
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_10_1_bac3a325d4.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_10_2_4e125fa3b6.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1088",
-                    "url": "/uploads/product_10_3_03d0737c7d.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_10_1_300x408_ee78dab46b.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_10_2_300x408_6cffdb4228.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_10_3_300x408_a9517c4ccf.jpg"
+                    "url": "/uploads/new-images/nikeshoesblackimages.jpg"
                 }
             ],
             "variants": []
