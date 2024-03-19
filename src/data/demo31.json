@@ -5,8 +5,8 @@
             "name": "Trainers",
             "slug": "trainers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 29.99,
-            "sale_price": 19.99,
+            "price": 29990,
+            "sale_price": 19990,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -36,24 +36,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_1_2639891b2f.jpg"
+                    "url": "\/uploads\/2_1_2639891b2f.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                    "url": "\/uploads\/2_2_7dc0f060e6.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_1_2639891b2f.jpg"
+                    "url": "\/uploads\/2_1_2639891b2f.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                    "url": "\/uploads\/2_2_7dc0f060e6.jpg"
                 }
             ],
             "variants": []
@@ -63,8 +63,8 @@
             "name": "Cotton Twill Joggers",
             "slug": "cotton-twill-joggers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -98,24 +98,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                    "url": "\/uploads\/4_1_01c4943ac4.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                    "url": "\/uploads\/4_2_2558ec32ee.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                    "url": "\/uploads\/4_1_01c4943ac4.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                    "url": "\/uploads\/4_2_2558ec32ee.jpg"
                 }
             ],
             "variants": []
@@ -125,8 +125,8 @@
             "name": "Elasticated cotton shorts",
             "slug": "elasticated-cotton-shorts",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 30.99,
-            "sale_price": 24.99,
+            "price": 30990,
+            "sale_price": 24990,
             "review": 2,
             "ratings": 4,
             "until": "2022-01-01",
@@ -164,34 +164,34 @@
                 {
                     "width": "800",
                     "height": "1089",
-                    "url": "/uploads/product_2_1_ef585a9d3a.jpg"
+                    "url": "\/uploads\/product_2_1_ef585a9d3a.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1089",
-                    "url": "/uploads/product_2_2_aaba42988b.jpg"
+                    "url": "\/uploads\/product_2_2_aaba42988b.jpg"
                 },
                 {
                     "width": "800",
                     "height": "1089",
-                    "url": "/uploads/product_2_3_d991dbd243.jpg"
+                    "url": "\/uploads\/product_2_3_d991dbd243.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_1_300x408_2061def759.jpg"
+                    "url": "\/uploads\/product_2_1_300x408_2061def759.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_2_300x408_14ff1ad498.jpg"
+                    "url": "\/uploads\/product_2_2_300x408_14ff1ad498.jpg"
                 },
                 {
                     "width": "300",
                     "height": "408",
-                    "url": "/uploads/product_2_3_300x408_d59811e0ab.jpg"
+                    "url": "\/uploads\/product_2_3_300x408_d59811e0ab.jpg"
                 }
             ],
             "variants": []
@@ -201,8 +201,8 @@
             "name": "Long-Sleeved blouse",
             "slug": "long-sleeved-blouse",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 84,
-            "sale_price": null,
+            "price": 84000,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -232,24 +232,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_1_722fc64ccb.jpg"
+                    "url": "\/uploads\/1_1_722fc64ccb.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_2_35caa0266b.jpg"
+                    "url": "\/uploads\/1_2_35caa0266b.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_1_01d74d51a5.jpg"
+                    "url": "\/uploads\/1_1_01d74d51a5.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_2_727a69b984.jpg"
+                    "url": "\/uploads\/1_2_727a69b984.jpg"
                 }
             ],
             "variants": [
@@ -257,7 +257,7 @@
                     "id": 40,
                     "color": "#3399cc",
                     "color_name": "Blue",
-                    "price": 84,
+                    "price": 84000,
                     "size": [
                         {
                             "id": 101,
@@ -270,7 +270,7 @@
                     "id": 39,
                     "color": "#333333",
                     "color_name": "Grey",
-                    "price": 80,
+                    "price": 80000,
                     "size": [
                         {
                             "id": 98,
@@ -296,8 +296,8 @@
             "name": "Cotton Shirt Slim Fit",
             "slug": "cotton-shirt-slim-fit",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 19.99,
-            "sale_price": null,
+            "price": 19990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -335,24 +335,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                    "url": "\/uploads\/3_1_5ffe80640b.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                    "url": "\/uploads\/3_2_bdb88d23de.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                    "url": "\/uploads\/3_1_5ffe80640b.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                    "url": "\/uploads\/3_2_bdb88d23de.jpg"
                 }
             ],
             "variants": []
@@ -362,8 +362,8 @@
             "name": "Essential Studio Yoga Mat",
             "slug": "essential-studio-yoga-mat",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 45.99,
-            "sale_price": 25.99,
+            "price": 45990,
+            "sale_price": 25990,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -389,24 +389,24 @@
                 {
                     "width": "264",
                     "height": "396",
-                    "url": "/uploads/9_1_6305edf659.jpg"
+                    "url": "\/uploads\/9_1_6305edf659.jpg"
                 },
                 {
                     "width": "264",
                     "height": "396",
-                    "url": "/uploads/9_2_98205cdff1.jpg"
+                    "url": "\/uploads\/9_2_98205cdff1.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "264",
                     "height": "396",
-                    "url": "/uploads/9_1_0821e771e2.jpg"
+                    "url": "\/uploads\/9_1_0821e771e2.jpg"
                 },
                 {
                     "width": "264",
                     "height": "396",
-                    "url": "/uploads/9_2_8ad5877c3b.jpg"
+                    "url": "\/uploads\/9_2_8ad5877c3b.jpg"
                 }
             ],
             "variants": []

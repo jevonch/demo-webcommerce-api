@@ -5,8 +5,8 @@
             "name": "Fashion Headphones",
             "slug": "fashion-headphones",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 259.99,
-            "sale_price": null,
+            "price": 259990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -36,34 +36,34 @@
                 {
                     "width": "423",
                     "height": "567",
-                    "url": "/uploads/h_phone_black_a1d454e3cc.jpg"
+                    "url": "\/uploads\/h_phone_black_a1d454e3cc.jpg"
                 },
                 {
                     "width": "465",
                     "height": "567",
-                    "url": "/uploads/h_phone_white_d819da4f5a.jpg"
+                    "url": "\/uploads\/h_phone_white_d819da4f5a.jpg"
                 },
                 {
                     "width": "465",
                     "height": "567",
-                    "url": "/uploads/h_phone_red_c28911996e.jpg"
+                    "url": "\/uploads\/h_phone_red_c28911996e.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "423",
                     "height": "567",
-                    "url": "/uploads/h_phone_black_7f8a79c259.jpg"
+                    "url": "\/uploads\/h_phone_black_7f8a79c259.jpg"
                 },
                 {
                     "width": "465",
                     "height": "567",
-                    "url": "/uploads/h_phone_white_036c295c4d.jpg"
+                    "url": "\/uploads\/h_phone_white_036c295c4d.jpg"
                 },
                 {
                     "width": "465",
                     "height": "567",
-                    "url": "/uploads/h_phone_red_281d8620cb.jpg"
+                    "url": "\/uploads\/h_phone_red_281d8620cb.jpg"
                 }
             ],
             "variants": [
@@ -71,7 +71,7 @@
                     "id": 63,
                     "color": "#333333",
                     "color_name": "Black",
-                    "price": 252.99,
+                    "price": 252990,
                     "size": [
                         {
                             "id": 164,
@@ -94,7 +94,7 @@
                     "id": 64,
                     "color": "#ebebeb",
                     "color_name": "White",
-                    "price": 259.99,
+                    "price": 259990,
                     "size": [
                         {
                             "id": 171,
@@ -117,7 +117,7 @@
                     "id": 65,
                     "color": "#cb5050",
                     "color_name": "Red",
-                    "price": 269.99,
+                    "price": 269990,
                     "size": [
                         {
                             "id": 167,

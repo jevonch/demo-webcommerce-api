@@ -5,8 +5,8 @@
             "name": "Becoming Michelle Obama ",
             "slug": "becoming-michelle-obama",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 32.5,
-            "sale_price": 19.5,
+            "price": 32500,
+            "sale_price": 19500,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -36,14 +36,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_1_1a05fb58fb.jpg"
+                    "url": "\/uploads\/product_1_1a05fb58fb.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_1_194x300_7d4e3277d8.jpg"
+                    "url": "\/uploads\/product_1_194x300_7d4e3277d8.jpg"
                 }
             ],
             "variants": []
@@ -53,8 +53,8 @@
             "name": "The Secret Barrister",
             "slug": "the-secret-barrister",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 17.34,
-            "sale_price": null,
+            "price": 17340,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -88,14 +88,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_2_0d62414fc0.jpg"
+                    "url": "\/uploads\/product_2_0d62414fc0.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_2_194x300_f2ce841bec.jpg"
+                    "url": "\/uploads\/product_2_194x300_f2ce841bec.jpg"
                 }
             ],
             "variants": []
@@ -105,8 +105,8 @@
             "name": "Five Feet Apart",
             "slug": "five-feet-apart",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 18.99,
-            "sale_price": 14.99,
+            "price": 18990,
+            "sale_price": 14990,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -136,14 +136,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_3_4d071da211.jpg"
+                    "url": "\/uploads\/product_3_4d071da211.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_3_194x300_0805445268.jpg"
+                    "url": "\/uploads\/product_3_194x300_0805445268.jpg"
                 }
             ],
             "variants": []
@@ -153,8 +153,8 @@
             "name": "One Of Us Is Lying",
             "slug": "one-of-us-is-lying",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -184,14 +184,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_4_12669153a3.jpg"
+                    "url": "\/uploads\/product_4_12669153a3.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_4_194x300_9b6c19f3e6.jpg"
+                    "url": "\/uploads\/product_4_194x300_9b6c19f3e6.jpg"
                 }
             ],
             "variants": []
@@ -201,8 +201,8 @@
             "name": "How to stop time",
             "slug": "how-to-stop-time",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 11.68,
-            "sale_price": null,
+            "price": 11680,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -232,14 +232,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_5_882f65d90c.jpg"
+                    "url": "\/uploads\/product_5_882f65d90c.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_5_194x300_1f41217014.jpg"
+                    "url": "\/uploads\/product_5_194x300_1f41217014.jpg"
                 }
             ],
             "variants": []
@@ -249,8 +249,8 @@
             "name": "The Durrells of Corfu: Exclusive Edition",
             "slug": "the-durrells-of-corfu:-exclusive-edition",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 24.48,
-            "sale_price": null,
+            "price": 24480,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -280,14 +280,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_6_44a51c0a73.jpg"
+                    "url": "\/uploads\/product_6_44a51c0a73.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_6_194x300_047bfcd749.jpg"
+                    "url": "\/uploads\/product_6_194x300_047bfcd749.jpg"
                 }
             ],
             "variants": []
@@ -297,8 +297,8 @@
             "name": "The Moon: A History for the Future",
             "slug": "the-moon:-a-history-for-the-future",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 16.97,
-            "sale_price": null,
+            "price": 16970,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -324,14 +324,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_7_9aac7baa7c.jpg"
+                    "url": "\/uploads\/product_7_9aac7baa7c.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_7_194x300_ca22ab5405.jpg"
+                    "url": "\/uploads\/product_7_194x300_ca22ab5405.jpg"
                 }
             ],
             "variants": []
@@ -341,8 +341,8 @@
             "name": "Hard Pushed: A Midwife's Story",
             "slug": "hard-pushed:-a-midwife's-story",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 12.99,
-            "sale_price": null,
+            "price": 12990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -372,14 +372,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_8_c2fee016da.jpg"
+                    "url": "\/uploads\/product_8_c2fee016da.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_8_194x300_5e7ae68fcc.jpg"
+                    "url": "\/uploads\/product_8_194x300_5e7ae68fcc.jpg"
                 }
             ],
             "variants": []
@@ -389,8 +389,8 @@
             "name": "This lie will kill you",
             "slug": "this-lie-will-kill-you",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 7.99,
-            "sale_price": null,
+            "price": 7990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -420,14 +420,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_9_e8deb2c98c.jpg"
+                    "url": "\/uploads\/product_9_e8deb2c98c.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_9_194x300_4611873103.jpg"
+                    "url": "\/uploads\/product_9_194x300_4611873103.jpg"
                 }
             ],
             "variants": []
@@ -437,8 +437,8 @@
             "name": "Normal People",
             "slug": "normal-people",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 10.99,
-            "sale_price": 6.99,
+            "price": 10990,
+            "sale_price": 6990,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -468,14 +468,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_10_44df10f668.jpg"
+                    "url": "\/uploads\/product_10_44df10f668.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_10_194x300_87079c7622.jpg"
+                    "url": "\/uploads\/product_10_194x300_87079c7622.jpg"
                 }
             ],
             "variants": []
@@ -485,8 +485,8 @@
             "name": "The silence of the girls",
             "slug": "the-silence-of-the-girls",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 10.99,
-            "sale_price": 6.99,
+            "price": 10990,
+            "sale_price": 6990,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -516,14 +516,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_11_f71d192458.jpg"
+                    "url": "\/uploads\/product_11_f71d192458.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_11_194x300_01cf114c05.jpg"
+                    "url": "\/uploads\/product_11_194x300_01cf114c05.jpg"
                 }
             ],
             "variants": []
@@ -533,8 +533,8 @@
             "name": "You got this",
             "slug": "you-got-this",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 7.99,
-            "sale_price": null,
+            "price": 7990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -560,14 +560,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_12_1f263c5592.jpg"
+                    "url": "\/uploads\/product_12_1f263c5592.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_12_194x300_ef51077121.jpg"
+                    "url": "\/uploads\/product_12_194x300_ef51077121.jpg"
                 }
             ],
             "variants": []
@@ -577,8 +577,8 @@
             "name": "The Librarian of Auschwitz",
             "slug": "the-librarian-of-auschwitz",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 10.99,
-            "sale_price": null,
+            "price": 10990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -604,14 +604,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_13_03c4c7caa1.jpg"
+                    "url": "\/uploads\/product_13_03c4c7caa1.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_13_194x300_8cc6fca84a.jpg"
+                    "url": "\/uploads\/product_13_194x300_8cc6fca84a.jpg"
                 }
             ],
             "variants": []
@@ -621,8 +621,8 @@
             "name": "Moneyland: Why Thieves And Crooks Now Rule The World",
             "slug": "moneyland:-why-thieves-and-crooks-now-rule-the-world",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 12.99,
-            "sale_price": 7.99,
+            "price": 12990,
+            "sale_price": 7990,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -652,14 +652,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_14_abcfb88557.jpg"
+                    "url": "\/uploads\/product_14_abcfb88557.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_14_194x300_86d9cd5b32.jpg"
+                    "url": "\/uploads\/product_14_194x300_86d9cd5b32.jpg"
                 }
             ],
             "variants": []
@@ -669,8 +669,8 @@
             "name": "What if it's us.",
             "slug": "what-if-it's-us.",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 18.99,
-            "sale_price": null,
+            "price": 18990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -696,14 +696,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_16_c8b71a0744.jpg"
+                    "url": "\/uploads\/product_16_c8b71a0744.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_16_194x300_66aed6bb7b.jpg"
+                    "url": "\/uploads\/product_16_194x300_66aed6bb7b.jpg"
                 }
             ],
             "variants": []
@@ -713,8 +713,8 @@
             "name": "The sun is also a start",
             "slug": "the-sun-is-also-a-start",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 10.99,
-            "sale_price": null,
+            "price": 10990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -740,14 +740,14 @@
                 {
                     "width": "600",
                     "height": "930",
-                    "url": "/uploads/product_17_8aaa05d0d3.jpg"
+                    "url": "\/uploads\/product_17_8aaa05d0d3.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "194",
                     "height": "300",
-                    "url": "/uploads/product_17_194x300_6fdb22b3f6.jpg"
+                    "url": "\/uploads\/product_17_194x300_6fdb22b3f6.jpg"
                 }
             ],
             "variants": []
@@ -777,7 +777,7 @@
                 {
                     "width": "335",
                     "height": "200",
-                    "url": "/uploads/post_1_7d773c65f6.jpg"
+                    "url": "\/uploads\/post_1_7d773c65f6.jpg"
                 }
             ]
         },
@@ -800,7 +800,7 @@
                 {
                     "width": "335",
                     "height": "200",
-                    "url": "/uploads/post_2_b5403e5165.jpg"
+                    "url": "\/uploads\/post_2_b5403e5165.jpg"
                 }
             ]
         },
@@ -827,7 +827,7 @@
                 {
                     "width": "335",
                     "height": "200",
-                    "url": "/uploads/post_3_8a2522a753.jpg"
+                    "url": "\/uploads\/post_3_8a2522a753.jpg"
                 }
             ]
         },
@@ -845,7 +845,7 @@
                 {
                     "width": "335",
                     "height": "200",
-                    "url": "/uploads/post_4_bfc6d57a6e.jpg"
+                    "url": "\/uploads\/post_4_bfc6d57a6e.jpg"
                 }
             ]
         }

@@ -5,8 +5,8 @@
             "name": "Almonds (240g)",
             "slug": "almonds-(240g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 8.59,
-            "sale_price": null,
+            "price": 8590,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -36,14 +36,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_6_85061ee852.jpg"
+                    "url": "\/uploads\/product_6_85061ee852.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/6_40e942e6ef.jpg"
+                    "url": "\/uploads\/6_40e942e6ef.jpg"
                 }
             ],
             "variants": []
@@ -53,8 +53,8 @@
             "name": "Broccoli (each)",
             "slug": "broccoli-(each)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 1.59,
-            "sale_price": null,
+            "price": 1590,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -80,14 +80,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_1_ab2229d7b5.jpg"
+                    "url": "\/uploads\/product_1_ab2229d7b5.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/1_fb8937f6f6.jpg"
+                    "url": "\/uploads\/1_fb8937f6f6.jpg"
                 }
             ],
             "variants": []
@@ -97,8 +97,8 @@
             "name": "Rye Bread (800g)",
             "slug": "rye-bread-(800g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 3.99,
-            "sale_price": null,
+            "price": 3990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -124,14 +124,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_2_59ca9279f9.jpg"
+                    "url": "\/uploads\/product_2_59ca9279f9.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/2_b770f68f74.jpg"
+                    "url": "\/uploads\/2_b770f68f74.jpg"
                 }
             ],
             "variants": []
@@ -141,8 +141,8 @@
             "name": "Shrimp-jumbo (5lb)",
             "slug": "shrimp-jumbo-(5lb)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 42,
-            "sale_price": 35.8,
+            "price": 42000,
+            "sale_price": 35800,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -168,14 +168,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_3_0a6bacb2c9.jpg"
+                    "url": "\/uploads\/product_3_0a6bacb2c9.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/3_de736a8d69.jpg"
+                    "url": "\/uploads\/3_de736a8d69.jpg"
                 }
             ],
             "variants": []
@@ -185,8 +185,8 @@
             "name": "Tomato (each)",
             "slug": "tomato-(each)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 0.59,
-            "sale_price": null,
+            "price": 590,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -216,14 +216,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_4_fbe5fce8eb.jpg"
+                    "url": "\/uploads\/product_4_fbe5fce8eb.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/4_a3a0ebcc24.jpg"
+                    "url": "\/uploads\/4_a3a0ebcc24.jpg"
                 }
             ],
             "variants": []
@@ -233,8 +233,8 @@
             "name": "Coconut ripe and tasty",
             "slug": "coconut-ripe-and-tasty",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 42,
-            "sale_price": 32.9,
+            "price": 42000,
+            "sale_price": 32900,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -260,14 +260,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_5_f3b6523b93.jpg"
+                    "url": "\/uploads\/product_5_f3b6523b93.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/5_7490ecd406.jpg"
+                    "url": "\/uploads\/5_7490ecd406.jpg"
                 }
             ],
             "variants": []
@@ -277,8 +277,8 @@
             "name": "Rye Bread Piece (800g)",
             "slug": "rye-bread-piece-(800g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 3.99,
-            "sale_price": null,
+            "price": 3990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 3,
             "until": "2022-06-01",
@@ -304,14 +304,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_7_12b69866ba.jpg"
+                    "url": "\/uploads\/product_7_12b69866ba.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/7_e26e737e88.jpg"
+                    "url": "\/uploads\/7_e26e737e88.jpg"
                 }
             ],
             "variants": []
@@ -321,8 +321,8 @@
             "name": "Shrimp-jumbo grey (5lb)",
             "slug": "shrimp-jumbo-grey-(5lb)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 38,
-            "sale_price": null,
+            "price": 38000,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": "2022-04-01",
@@ -348,14 +348,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_8_b9ec9fb764.jpg"
+                    "url": "\/uploads\/product_8_b9ec9fb764.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/8_b7d8433b1a.jpg"
+                    "url": "\/uploads\/8_b7d8433b1a.jpg"
                 }
             ],
             "variants": []
@@ -365,8 +365,8 @@
             "name": "Fresh Mussel (500g)",
             "slug": "fresh-mussel-(500g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 22,
-            "sale_price": 12.8,
+            "price": 22000,
+            "sale_price": 12800,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -392,14 +392,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_9_f10983dae4.jpg"
+                    "url": "\/uploads\/product_9_f10983dae4.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/9_50d5e133ff.jpg"
+                    "url": "\/uploads\/9_50d5e133ff.jpg"
                 }
             ],
             "variants": []
@@ -409,8 +409,8 @@
             "name": "Organic Pure Juice Fresh Pressed Orange-32 fl oz",
             "slug": "organic-pure-juice-fresh-pressed-orange-32-fl-oz",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 4.89,
-            "sale_price": null,
+            "price": 4890,
+            "sale_price": 0,
             "review": 2,
             "ratings": 0,
             "until": null,
@@ -436,14 +436,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_10_dd5f1c8b96.jpg"
+                    "url": "\/uploads\/product_10_dd5f1c8b96.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/10_66558d7dd2.jpg"
+                    "url": "\/uploads\/10_66558d7dd2.jpg"
                 }
             ],
             "variants": []
@@ -453,8 +453,8 @@
             "name": "Healthy Fried Soya Stick Chips (100g)",
             "slug": "healthy-fried-soya-stick-chips-(100g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 10,
-            "sale_price": 2.59,
+            "price": 10000,
+            "sale_price": 2590,
             "review": 2,
             "ratings": 0,
             "until": null,
@@ -480,14 +480,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_11_92dd9bd2e2.jpg"
+                    "url": "\/uploads\/product_11_92dd9bd2e2.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/11_a3dc0c4a4e.jpg"
+                    "url": "\/uploads\/11_a3dc0c4a4e.jpg"
                 }
             ],
             "variants": []
@@ -497,8 +497,8 @@
             "name": "Ripe apricot fruits (540g)",
             "slug": "ripe-apricot-fruits-(540g)",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 12.99,
-            "sale_price": null,
+            "price": 12990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 0,
             "until": "2022-04-01",
@@ -524,14 +524,14 @@
                 {
                     "width": "600",
                     "height": "600",
-                    "url": "/uploads/product_12_8f10c71ad7.jpg"
+                    "url": "\/uploads\/product_12_8f10c71ad7.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "192",
                     "height": "192",
-                    "url": "/uploads/12_a0ecf3d767.jpg"
+                    "url": "\/uploads\/12_a0ecf3d767.jpg"
                 }
             ],
             "variants": []
@@ -557,7 +557,7 @@
                 {
                     "width": "334",
                     "height": "200",
-                    "url": "/uploads/1_259440f0d4.jpg"
+                    "url": "\/uploads\/1_259440f0d4.jpg"
                 }
             ]
         },
@@ -580,7 +580,7 @@
                 {
                     "width": "334",
                     "height": "200",
-                    "url": "/uploads/2_b524abeb30.jpg"
+                    "url": "\/uploads\/2_b524abeb30.jpg"
                 }
             ]
         },
@@ -603,7 +603,7 @@
                 {
                     "width": "334",
                     "height": "200",
-                    "url": "/uploads/3_4d90eed765.jpg"
+                    "url": "\/uploads\/3_4d90eed765.jpg"
                 }
             ]
         },
@@ -626,7 +626,7 @@
                 {
                     "width": "334",
                     "height": "200",
-                    "url": "/uploads/4_cb39d17d62.jpg"
+                    "url": "\/uploads\/4_cb39d17d62.jpg"
                 }
             ]
         }

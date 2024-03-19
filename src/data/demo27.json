@@ -5,8 +5,8 @@
             "name": "Trainers",
             "slug": "trainers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 29.99,
-            "sale_price": null,
+            "price": 29990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -36,24 +36,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_1_2639891b2f.jpg"
+                    "url": "\/uploads\/2_1_2639891b2f.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                    "url": "\/uploads\/2_2_7dc0f060e6.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_1_2639891b2f.jpg"
+                    "url": "\/uploads\/2_1_2639891b2f.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/2_2_7dc0f060e6.jpg"
+                    "url": "\/uploads\/2_2_7dc0f060e6.jpg"
                 }
             ],
             "variants": []
@@ -63,8 +63,8 @@
             "name": "Cotton Twill Joggers",
             "slug": "cotton-twill-joggers",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -98,24 +98,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                    "url": "\/uploads\/4_1_01c4943ac4.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                    "url": "\/uploads\/4_2_2558ec32ee.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_1_01c4943ac4.jpg"
+                    "url": "\/uploads\/4_1_01c4943ac4.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/4_2_2558ec32ee.jpg"
+                    "url": "\/uploads\/4_2_2558ec32ee.jpg"
                 }
             ],
             "variants": []
@@ -125,8 +125,8 @@
             "name": "Long-Sleeved blouse",
             "slug": "long-sleeved-blouse",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ",
-            "price": 84,
-            "sale_price": null,
+            "price": 84000,
+            "sale_price": 0,
             "review": 2,
             "ratings": 5,
             "until": null,
@@ -156,24 +156,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_1_722fc64ccb.jpg"
+                    "url": "\/uploads\/1_1_722fc64ccb.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_2_35caa0266b.jpg"
+                    "url": "\/uploads\/1_2_35caa0266b.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_1_01d74d51a5.jpg"
+                    "url": "\/uploads\/1_1_01d74d51a5.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/1_2_727a69b984.jpg"
+                    "url": "\/uploads\/1_2_727a69b984.jpg"
                 }
             ],
             "variants": [
@@ -181,7 +181,7 @@
                     "id": 40,
                     "color": "#3399cc",
                     "color_name": "Blue",
-                    "price": 84,
+                    "price": 84000,
                     "size": [
                         {
                             "id": 101,
@@ -194,7 +194,7 @@
                     "id": 39,
                     "color": "#333333",
                     "color_name": "Grey",
-                    "price": 80,
+                    "price": 80000,
                     "size": [
                         {
                             "id": 98,
@@ -220,8 +220,8 @@
             "name": "Cotton Shirt Slim Fit",
             "slug": "cotton-shirt-slim-fit",
             "short_desc": "Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum hendrerit tortor. Sed semper lorem at felis. Vestibulum volutpat, lacus a ultrices sagittis, mi neque euismod dui, eu pulvinar nunc sapien ornare nisl. Phasellus pede arcu, dapibus eu, ",
-            "price": 19.99,
-            "sale_price": null,
+            "price": 19990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -259,24 +259,24 @@
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                    "url": "\/uploads\/3_1_5ffe80640b.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                    "url": "\/uploads\/3_2_bdb88d23de.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_1_5ffe80640b.jpg"
+                    "url": "\/uploads\/3_1_5ffe80640b.jpg"
                 },
                 {
                     "width": "335",
                     "height": "480",
-                    "url": "/uploads/3_2_bdb88d23de.jpg"
+                    "url": "\/uploads\/3_2_bdb88d23de.jpg"
                 }
             ],
             "variants": []
@@ -286,8 +286,8 @@
             "name": "Linen-blend jumpsuit black",
             "slug": "linen-blend-jumpsuit-black",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -321,24 +321,24 @@
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_1_c45bde92cb.jpg"
+                    "url": "\/uploads\/product_1_1_c45bde92cb.jpg"
                 },
                 {
                     "width": "75",
                     "height": "100",
-                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                    "url": "\/uploads\/product_1_1_1_2512c28c99.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_1_0c9ca3fa5d.jpg"
+                    "url": "\/uploads\/product_1_1_0c9ca3fa5d.jpg"
                 },
                 {
                     "width": "75",
                     "height": "100",
-                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                    "url": "\/uploads\/product_1_1_1_2512c28c99.jpg"
                 }
             ],
             "variants": []
@@ -348,8 +348,8 @@
             "name": "Black Sandals",
             "slug": "black-sandals",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 199,
-            "sale_price": null,
+            "price": 199000,
+            "sale_price": 0,
             "review": 2,
             "ratings": 3,
             "until": null,
@@ -379,14 +379,14 @@
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_2_fd504419a4.jpg"
+                    "url": "\/uploads\/product_1_2_fd504419a4.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_2_fd504419a4.jpg"
+                    "url": "\/uploads\/product_1_2_fd504419a4.jpg"
                 }
             ],
             "variants": []
@@ -396,8 +396,8 @@
             "name": "Brown Jumpsuit",
             "slug": "brown-jumpsuit",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -427,14 +427,14 @@
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_3_d640cf9374.jpg"
+                    "url": "\/uploads\/product_1_3_d640cf9374.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "446",
                     "height": "700",
-                    "url": "/uploads/product_1_3_d640cf9374.jpg"
+                    "url": "\/uploads\/product_1_3_d640cf9374.jpg"
                 }
             ],
             "variants": []
@@ -444,8 +444,8 @@
             "name": "Men Fashion Jacket",
             "slug": "men-fashion-jacket",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 199,
-            "sale_price": null,
+            "price": 199000,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -479,24 +479,24 @@
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_2_c1c635c206.jpg"
+                    "url": "\/uploads\/product_2_2_c1c635c206.jpg"
                 },
                 {
                     "width": "75",
                     "height": "100",
-                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                    "url": "\/uploads\/product_1_1_1_2512c28c99.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_2_9079eda01b.jpg"
+                    "url": "\/uploads\/product_2_2_9079eda01b.jpg"
                 },
                 {
                     "width": "75",
                     "height": "100",
-                    "url": "/uploads/product_1_1_1_2512c28c99.jpg"
+                    "url": "\/uploads\/product_1_1_1_2512c28c99.jpg"
                 }
             ],
             "variants": []
@@ -506,8 +506,8 @@
             "name": "LInen-blend shirt",
             "slug": "linen-blend-shirt",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 199.99,
-            "sale_price": null,
+            "price": 199990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 3,
             "until": null,
@@ -537,14 +537,14 @@
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_1_417978c88e.jpg"
+                    "url": "\/uploads\/product_2_1_417978c88e.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_1_417978c88e.jpg"
+                    "url": "\/uploads\/product_2_1_417978c88e.jpg"
                 }
             ],
             "variants": []
@@ -554,8 +554,8 @@
             "name": "Men Cotton Jacket",
             "slug": "men-cotton-jacket",
             "short_desc": "Sed egestas, ante et vulputate volutpat, eros pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing. Sed lectus.",
-            "price": 17.99,
-            "sale_price": null,
+            "price": 17990,
+            "sale_price": 0,
             "review": 2,
             "ratings": 4,
             "until": null,
@@ -585,14 +585,14 @@
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_3_f3dfda310b.jpg"
+                    "url": "\/uploads\/product_2_3_f3dfda310b.jpg"
                 }
             ],
             "sm_pictures": [
                 {
                     "width": "500",
                     "height": "700",
-                    "url": "/uploads/product_2_3_f3dfda310b.jpg"
+                    "url": "\/uploads\/product_2_3_f3dfda310b.jpg"
                 }
             ],
             "variants": []
